@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @azyyatiahmad
 - 👀 I’m interested in AI...
-- 🌱 I’m currently learning AZure for Engineer and prepapring for Ms Azure AI-102 exam.
+- 🌱 I’m currently learning AZure for Engineer and preparing for Ms Azure AI-102 exam.Now I already passed!
 - 💞️ I’m looking to collaborate on AI and Blockchain project
 - 📫 How to reach me at azyahmad@gmail.com 
 
